@@ -20,7 +20,8 @@ Today I began learning **React Native** and took my first steps into mobile app 
 ---
 
 ### 📸 Demo Screenshot (Optional)
-_Add a screenshot or GIF here if you have one to show your progress!_
+![image](https://github.com/user-attachments/assets/646a55d2-86c3-4194-9549-7bd80d1fc05f)
+
 
 ---
 
